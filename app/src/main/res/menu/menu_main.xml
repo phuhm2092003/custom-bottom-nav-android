@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Trang chủ"
+        android:icon="@drawable/group_1" />
+    <item
+        android:id="@+id/savedNewsFragment"
+        android:title="Tin lưu"
+        android:icon="@drawable/group_2" />
+    <item
+        android:id="@+id/shoppingFragment"
+        android:title="Mua hàng"
+        />
+    <item
+        android:id="@+id/messagesFragment"
+        android:title="Tin nhắn"
+        android:icon="@drawable/group_2" />
+    <item
+        android:id="@+id/moreFragment"
+        android:title="Thêm"
+        android:icon="@drawable/group_2" />
+</menu>
